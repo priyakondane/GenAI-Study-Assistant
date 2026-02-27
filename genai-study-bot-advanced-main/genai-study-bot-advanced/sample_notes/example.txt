@@ -1,0 +1,20 @@
+
+Cloud Computing — Quick Notes
+
+1) Service Models
+- IaaS: Infrastructure as a Service (VMs, storage, networks)
+- PaaS: Platform as a Service (managed runtime, DB, frameworks)
+- SaaS: Complete applications delivered over the internet
+
+2) AWS Core
+- EC2: virtual servers
+- S3: object storage (buckets, versioning, lifecycle)
+- RDS: managed relational databases
+- VPC: isolated virtual network
+- IAM: users, roles, policies
+
+3) Best Practices
+- Use IAM roles over access keys
+- Enable CloudWatch alarms and logging
+- Apply least privilege policies
+- Use multi-AZ for high availability
